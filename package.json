@@ -1,0 +1,24 @@
+{
+  "name": "odin-flexbox",
+  "version": "1.0.0",
+  "description": "Final Project for the CSS Fundamentals Course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LizWise/Odin-FlexBox.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LizWise/Odin-FlexBox/issues"
+  },
+  "homepage": "https://github.com/LizWise/Odin-FlexBox#readme",
+  "devDependencies": {
+    "stylelint": "^16.23.1",
+    "stylelint-config-standard": "^39.0.0"
+  }
+}
